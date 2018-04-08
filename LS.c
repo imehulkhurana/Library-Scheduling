@@ -262,7 +262,7 @@ A:
         printf("\n1.Students ");
         printf("\n2.Teachers ");
         printf("\n3.Both at the same time ");
-        printf("\n4.Exit\n");
+        printf("\n4.Exit \n");
 scanf("\n%d",&ch);
 int a=0,a1=0;
 switch(ch)
