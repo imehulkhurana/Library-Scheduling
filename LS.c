@@ -68,7 +68,7 @@ int ch;
 printf("\n Press 1 for Students ");
 printf("\n Press 2 for Teachers ");
 printf("\n Press 3 if Both are Coming ");
-printf("\n Press 4  if Nobody is Coming ");
+printf("\n Press 4 if Nobody is Coming ");
 printf("\n Press 5 to Check Processed Processes ");
 printf("\n Press 6 for Exit");
 scanf("\n%d",&ch);
