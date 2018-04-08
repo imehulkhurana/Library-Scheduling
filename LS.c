@@ -20,7 +20,7 @@ scanf("\n%d",&s);
 int id1;
 for(int i=0;i<s;i++)
 {
-printf("\n Enter 4 digit Student %d unique ID ",i);
+printf("\n Enter 4 digit Student %d Unique ID ",i);
 scanf("%d",&id1);
 struct lib *t;
 t=(struct lib*)malloc(sizeof(struct lib));
